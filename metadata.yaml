@@ -1,0 +1,37 @@
+_repo: The-Last-American--13-A-Fragment-from-The-Journal-of-Khan-li-Prince-of-Dimph-Yoo-Chur-and-Adm__27307
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Read, F. W. (Frederick William)
+    alias: Read, Frederick William
+    birthdate: 1863
+    gutenberg_agent_id: '32616'
+    url: http://www.gutenberg.org/2009/agents/32616
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, John Ames
+    alias: Mitchell, J. A. (John Ames)
+    birthdate: 1845
+    deathdate: 1918
+    gutenberg_agent_id: '2484'
+    url: http://www.gutenberg.org/2009/agents/2484
+    wikipedia: http://en.wikipedia.org/wiki/John_Ames_Mitchell
+description: ''
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2008-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: "The Last American\r\nA Fragment from The Journal of Khan-li, Prince of Dimph-Yoo-Chur\
+  \ and Admiral in the Persian Navy"
+url: http://www.gutenberg.org/ebooks/27307
